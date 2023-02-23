@@ -648,3 +648,9 @@ footer a {
     height: 97px;
   }
 }
+
+/* ---------- 絞り込み検索 必須CSS ここから ------------ */
+
+#result [class*="hidden-"] {display: none;}
+
+/* ---------- 必須CSS ここまで ------------ */
